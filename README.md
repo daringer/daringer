@@ -1,4 +1,4 @@
-### ⚡ creating this "secret" profile repository is like *self-commiting* --- haha, so (not) funny
+### ⚡ Wanna have a cookie?
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

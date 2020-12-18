@@ -1,4 +1,4 @@
-### ⚡ Wanna have a cookie?
+### ⚡ Wanna have a cookie? Click here for only essential cookies: here!
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

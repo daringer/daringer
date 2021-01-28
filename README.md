@@ -1,4 +1,4 @@
-### 😄 😎 How to tell you are a developer w/o saying it literally? "I am using Linux."
+### So you are telling me... That I have to write code to check if the code I wrote earlier was right? 😄 😎 
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

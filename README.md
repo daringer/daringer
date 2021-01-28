@@ -1,4 +1,4 @@
-### ⚡ Wanna have a cookie? Click here for only essential cookies: here!
+### 😄 😎 How to tell you are a developer w/o saying it literally? "I am using Linux."
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

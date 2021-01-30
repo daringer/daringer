@@ -1,4 +1,8 @@
-### So you are telling me... That I have to write code to check if the code I wrote earlier was right? 😄 😎 
+### What happend this week explained in simple terms:
+* If one monkey buys stock, stock stays still
+* If many monkeys buy stock, stock goes up
+
+source: *Dr. Parik Patel*
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

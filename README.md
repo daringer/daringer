@@ -1,8 +1,11 @@
-### What happend this week explained in simple terms:
-* If one monkey buys stock, stock stays still
-* If many monkeys buy stock, stock goes up
+### What is a Callback
+I just met you,
+And this is crazy,
+But here's my number (delegate),
+So if something happens (event),
+Call me, maybe (callback)?
 
-source: *Dr. Parik Patel*
+source: *LightStriker*
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

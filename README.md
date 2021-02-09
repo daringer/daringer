@@ -1,13 +1,10 @@
 ### What is a Callback
 I just met you,
 
-And this is crazy,
-
-But here's my number (delegate),
-
-So if something happens (event),
-
-Call me, maybe (callback)?
+And this is crazy,<br>
+But here's my number (delegate),<br>
+So if something happens (event),<br>
+Call me, maybe (callback)?<br>
 
 source: *LightStriker*
 

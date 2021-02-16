@@ -1,11 +1,8 @@
-### What is a Callback :notes:
-I just met you,<br> 
-And this is crazy,<br>
-But here's my number (delegate),<br>
-So if something happens (event),<br>
-Call me, maybe (callback)?<br>
-
-source: *LightStriker*
+### Python Quality-of-Life Hack :+1:
+```
+true = False
+false = True
+```
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ### Python Quality-of-Life Hack :+1:
 ```
-true = False
-false = True
+false = False
+true = True
 ```
 
 <!--

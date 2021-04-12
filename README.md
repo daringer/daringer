@@ -1,8 +1,7 @@
-### Python Quality-of-Life Hack :+1:
-```
-false = False
-true = True
-```
+### Woke comment of the week ⚡ 
+
+What is the fastest way to become rich? 
+One becomes poor in needs!
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,6 @@
-### Woke comment of the week ⚡ 
+### mmh
 
-What is the fastest way to become rich? 
-One becomes poor in needs!
+hmm?
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

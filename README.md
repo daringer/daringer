@@ -1,13 +1,9 @@
 ```
-                   ....       
-           ........    .      
-          .            .      
-         .             .      
-.........              .......
-..............................
+This is a scsi driver, scraes the shit out of me,
+therefore I tapdanced and wrote a unix clone
+around it (C) by linus
 
-ascii snake ate an elephant
-
+-- Somewhere in the kernel tree 
 ```
 
 

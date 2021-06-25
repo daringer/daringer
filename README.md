@@ -1,9 +1,9 @@
 ```
 "Banks hate this trick" ... click me  
 
-* wanna have cookies? select minimal cookies, accidently fall for "dark-pattern" and click "accept all", move away ads, close pop-over, close next pop-over,
+wanna have cookies? select minimal cookies, accidently fall for "dark-pattern" and click "accept all", move away ads, close pop-over, close next pop-over,
 
-... slideshow, "oh damn, don't wanna know anymore"
+... slideshow, "Oh damn, don't wanna know anymore!", close page
 
 (Oh, I love how the web works in 2021)
 ```

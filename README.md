@@ -1,9 +1,11 @@
 ```
-This is a scsi driver, scraes the shit out of me,
-therefore I tapdanced and wrote a unix clone
-around it (C) by linus
+"Banks hate this trick" ... click me  
 
--- Somewhere in the kernel tree 
+* wanna have cookies? select minimal cookies, accidently fall for "dark-pattern" and click "accept all", move away ads, close pop-over, close next pop-over,
+
+... slideshow, "oh damn, don't wanna know anymore"
+
+(Oh, I love how the web works in 2021)
 ```
 
 

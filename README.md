@@ -1,11 +1,7 @@
 ```
-"Banks hate this trick" ... click me  
-
-wanna have cookies? select minimal cookies, accidently fall for "dark-pattern" and click "accept all", move away ads, close pop-over, close next pop-over,
-
-... slideshow, "Oh damn, don't wanna know anymore!", close page
-
-(Oh, I love how the web works in 2021)
+In 3 months I'd like to see an analysis:
+Corona infections vs. how far the team went during the European Championships.
+I bet you can correlate incidencies vs. how far they got > 0.
 ```
 
 

@@ -1,7 +1,5 @@
 ```
-In 3 months I'd like to see an analysis:
-Corona infections vs. how far the team went during the European Championships.
-I bet you can correlate incidencies vs. how far they got > 0.
+Parkinson's Law:  Work expands to fill the time alloted it.
 ```
 
 

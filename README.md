@@ -1,5 +1,5 @@
 ```
-Parkinson's Law:  Work expands to fill the time alloted it.
+We all dream of being the darling of everybody's darling.
 ```
 
 

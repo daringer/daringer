@@ -1,5 +1,5 @@
 ```
-We all dream of being the darling of everybody's darling.
+You're always thinking you're gonna be the one that makes 'em act different.
 ```
 
 

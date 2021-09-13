@@ -1,5 +1,5 @@
 ```
-cooookieeeees
+<random-quote>
 ```
 
 

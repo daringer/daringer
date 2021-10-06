@@ -1,5 +1,5 @@
 ```
-<random-quote>
+ask me about docs
 ```
 
 

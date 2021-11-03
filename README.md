@@ -1,5 +1,5 @@
 ```
-ask me about FIDO2 and cokkies
+ask me about FIDO2 and cookies
 ```
 
 

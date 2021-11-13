@@ -1,5 +1,5 @@
 ```
-<insert fortune here />
+⚡ Fun fact: determinism is a pleasure
 ```
 
 

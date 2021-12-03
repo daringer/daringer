@@ -1,5 +1,5 @@
 ```
-⚡ Fun fact: determinism is a pleasure
+⚡ mmh, how much is the fish-bowl?
 ```
 
 

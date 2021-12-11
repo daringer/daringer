@@ -1,5 +1,5 @@
 ```
-⚡ mmh, how much is the fish-bowl?
+⚡ mmh, does configuring stuff and making it work on hardware count as development? Doesn't really feel like it...
 ```
 
 

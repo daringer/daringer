@@ -1,5 +1,5 @@
 ```
-⚡ fun fact: rain
+⚡ what's your release today?
 ```
 
 

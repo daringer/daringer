@@ -1,5 +1,5 @@
 ```
-⚡ what's your release today?
+⚡ WCGW: write first 3 lines code in an unknown language, remove one unit-test and tag a release - SHIP IT!
 ```
 
 

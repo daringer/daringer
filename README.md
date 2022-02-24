@@ -1,6 +1,5 @@
 ```
 Can I soft-disable my brain or _at least_ ME
-(public key)[https://keyserver.ubuntu.com/pks/lookup?search=coder%40safemailbox.de&fingerprint=on&op=index]
 ```
 
 

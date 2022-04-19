@@ -1,5 +1,5 @@
 ```
-curl me.web -o curly
+How about a next-gen contribution counter for GitHub. For quite some time now it feels not representative towards e.g., downstream ppl, while there is next to no added value keeping a repo as fork. Git will merge any remotes together and is anybody ever "merging from upstream" using the *button*. Guess not, so the time has come to come up with something more sophisticated M$. Nothing instransparent, clear calculation rules like: Come up with a bunch of metrics (similar to today + some). Calculate a score for each "metric", all these metrics can be shown seperatly (user opt-in!), but on top introduce social/impact/CodeRank/ - and let the ppl play to create a combination of these for her/his own profile.
 ```
 
 

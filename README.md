@@ -6,6 +6,8 @@ has come to come up with something more sophisticated M$. Nothing instransparent
 Come up with a bunch of metrics (similar to today + some). Calculate a score for each "metric", all these metrics 
 can be shown seperatly (user opt-in!), but on top introduce social/impact/CodeRank/ - and let the ppl play to 
 create a combination of these for her/his own profiles.
+
+I won't even start to talk about what would be possible with the combined orginizations' activity data...
 ```
 
 

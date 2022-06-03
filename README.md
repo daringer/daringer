@@ -1,5 +1,5 @@
 ```
-🤔 I’m looking for help with Rust's type inference...
+🤔 <something-funny>
 ```
 
 

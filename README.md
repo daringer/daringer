@@ -1,5 +1,5 @@
 ```
-👯 I’m looking to collaborate on cookies - the literal ones...
+👯 looks like I get rusty with python nowadays
 ```
 
 

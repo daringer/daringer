@@ -1,7 +1,4 @@
-```
-...
-```
-
+&#127926; .... little something, blbalbabla - Bender is great, aha .... Bender is great, Bender, Bender, Bender is great &#127926;
 
 
 <!--

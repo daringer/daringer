@@ -1,5 +1,6 @@
-&#127926; .... little something, blbalbabla - Bender is great, aha .... Bender is great, Bender, Bender, Bender is great &#127926;
+> By the way, I took the liberty of fertilizing your caviar.
 
+Dr. John Zoidberg
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

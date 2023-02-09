@@ -1,6 +1,7 @@
-> By the way, I took the liberty of fertilizing your caviar.
+> So my sadness makes perfect sense. And I do have vague memories of people refusing to breed with me.
 
-Dr. John Zoidberg
+Philip J. Fry
+
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

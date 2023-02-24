@@ -1,6 +1,6 @@
-> So my sadness makes perfect sense. And I do have vague memories of people refusing to breed with me.
+> If You Ask Me, It's Mighty Suspicious. I'm Gonna Call The Police. Right After I Flush Some Things.
 
-Philip J. Fry
+Hermes Conrad
 
 
 <!--

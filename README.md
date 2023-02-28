@@ -1,6 +1,6 @@
 > This is it. The moment we should have trained for.
 
-- Turanga Leela.
+Turanga Leela
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

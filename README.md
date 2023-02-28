@@ -1,7 +1,6 @@
-> If You Ask Me, It's Mighty Suspicious. I'm Gonna Call The Police. Right After I Flush Some Things.
+> This is it. The moment we should have trained for.
 
-Hermes Conrad
-
+- Turanga Leela.
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

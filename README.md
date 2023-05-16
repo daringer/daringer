@@ -1,6 +1,6 @@
-> This is it. The moment we should have trained for.
+> My story is a lot like yours, only more interesting ‘cause it involves robots.
 
-Turanga Leela
+Bender Bending Rodríguez
 
 <!--
 **daringer/daringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
